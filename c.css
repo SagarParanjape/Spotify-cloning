@@ -1,0 +1,12 @@
+#myProgressBar {
+  width: 80vw;
+}
+.songInfo img {
+  height: 50px;
+  width: 65px;
+  opacity: 0;
+  transition: opacity 1s ease-in;
+}
+.icon i {
+  font-size: 30px;
+}
